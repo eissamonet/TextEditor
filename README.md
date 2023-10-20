@@ -60,4 +60,4 @@ GIVEN a text editor web application
 
 ## Usage
 
-The application is deployed on Heroku and can be accessed at https://text-editor-2021.herokuapp.com/.
+The application is deployed on Heroku and can be accessed [here](https://blooming-thicket-05965-2a801c185973.herokuapp.com/).
