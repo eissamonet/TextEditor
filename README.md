@@ -11,7 +11,7 @@
 
 ## Description
 
-This application is a text editor that allows the user to create notes or code snippets with or without an internet connection. The user can reliably retrieve them for later use. The application is deployed on Heroku and can be accessed at https://text-editor-2021.herokuapp.com/.
+This application is a text editor that allows the user to create notes or code snippets with or without an internet connection. The user can reliably retrieve them for later use. 
 
 
 
@@ -60,4 +60,4 @@ GIVEN a text editor web application
 
 ## Usage
 
-User can open the deployed application here in the browser.
+The application is deployed on Heroku and can be accessed at https://text-editor-2021.herokuapp.com/.
