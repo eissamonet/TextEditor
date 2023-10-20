@@ -60,3 +60,4 @@ GIVEN a text editor web application
 
 ## Usage
 
+User can open the deployed application here in the browser.
