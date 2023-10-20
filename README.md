@@ -61,3 +61,10 @@ GIVEN a text editor web application
 ## Usage
 
 The application is deployed on Heroku and can be accessed [here](https://blooming-thicket-05965-2a801c185973.herokuapp.com/).
+
+
+<img width="1440" alt="Screenshot 2023-10-19 at 9 09 04 PM" src="https://github.com/eissamonet/TextEditor/assets/133728858/cc232a78-d0b6-40dd-b9ae-d6a3dbf09ded">
+
+
+
+
